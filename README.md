@@ -1,5 +1,7 @@
 # AutoXHS 服务器后端
 
+> 该端仅为作者练手所开发，如需更好的红薯服务，请转至新的仓库[烤红薯开源版](https://github.com/gupingan/khs-pyside6)
+
 ## 一、功能特性
 
 - 对接基于 `requests` 开发的 [**Auto XHS** 前端](https://github.com/gupingan/auto-xhs-frontend)；
